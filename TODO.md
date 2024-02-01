@@ -1,3 +1,4 @@
+- [ ] Flatten V-Slot around the T-Nut for cleaner engagement
 - [ ] Mod frame to have Tn inset with a filler to allow 2 colour prints of them and have them clearly marked
 - [x] Add small lip to the DB back plate to lock it in place
 - [x] Make short DB version (can only user short DBs for all tools if used)
