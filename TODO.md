@@ -4,14 +4,16 @@
 - [x] Make short DB version (can only user short DBs for all tools if used)
 - [ ] Make BOM
 - [x] Upload CAD
-- [ ] Finish Knomi Container (Missing Retainer)
+- [ ] Test Knomi Container
+- [ ] Test Knomi2 Container
+- [ ] Make a Halo Container
 - [x] Add blank Container to build off of
 - [x] Add grill Container
 - [ ] Add XOL
 - [ ] Add Config per Types
 - [x] Add frame links, left L/S, right L/S, middle LL/LS/SL/SS (if no crossbar)
 - [x] Convert wiper to be modular
-- [ ] Sprung Steel Wiper
+- [x] Sprung Steel Wiper
 - [ ] PTFE Wiper
 - [ ] Optional Brass Brush holder behind Wiper to brush as you pickup
 - [ ] Optional Tray to catch what the brush drops (held by magnets fo easy cleaning)
