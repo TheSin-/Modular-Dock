@@ -14,7 +14,7 @@
 - [x] Add frame links, left L/S, right L/S, middle LL/LS/SL/SS (if no crossbar)
 - [x] Convert wiper to be modular
 - [x] Sprung Steel Wiper
-- [ ] PTFE Wiper
+- [x] PTFE Wiper
 - [ ] Optional Brass Brush holder behind Wiper to brush as you pickup
 - [ ] Optional Tray to catch what the brush drops (held by magnets fo easy cleaning)
 - [x] Make sure all holes follow [3dp standards](https://github.com/gregsaun/maker_cheatsheet/blob/master/3d_printing/techniques.md)
