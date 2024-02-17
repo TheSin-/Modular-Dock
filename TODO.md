@@ -10,6 +10,7 @@
 - [x] Add blank Container to build off of
 - [x] Add grill Container
 - [ ] Add XOL
+- [x] Add Blackbird
 - [ ] Add Config per Types
 - [x] Add frame links, left L/S, right L/S, middle LL/LS/SL/SS (if no crossbar)
 - [x] Convert wiper to be modular
