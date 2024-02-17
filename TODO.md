@@ -1,12 +1,14 @@
+# TODO
+
 - [x] Flatten V-Slot around the T-Nut for cleaner engagement
 - [ ] Mod frame to have Tn inset with a filler to allow 2 colour prints of them and have them clearly marked
 - [x] Add small lip to the DB back plate to lock it in place
 - [x] Make short DB version (can only user short DBs for all tools if used)
-- [ ] Make BOM
+- [x] Make BOM
 - [x] Upload CAD
 - [ ] Test Knomi Container
 - [ ] Test Knomi2 Container
-- [ ] Make a Halo Container
+- [ ] Add a Halo Container
 - [x] Add blank Container to build off of
 - [x] Add grill Container
 - [ ] Add XOL
@@ -17,7 +19,7 @@
 - [x] Sprung Steel Wiper
 - [x] PTFE Wiper
 - [ ] Optional Brass Brush holder behind Wiper to brush as you pickup
-- [ ] Optional Tray to catch what the brush drops (held by magnets fo easy cleaning)
+- [ ] Optional Tray to catch what the brush drops (held by magnets for easy cleaning)
 - [x] Make sure all holes follow [3dp standards](https://github.com/gregsaun/maker_cheatsheet/blob/master/3d_printing/techniques.md)
 - [ ] Potentially add 3 heights, SB, SB + Hat or DB, DB + Hat (But again you can not mix and match)
-- [x] Convert Container to be 1515 compate so it works with 2020 and 1515 frames
+- [x] Convert Container to be 1515 compat so it works with 2020 and 1515 frames
