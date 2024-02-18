@@ -21,7 +21,7 @@
 
 ## Base
 4 x M3 Heatset  
-2 x M3x18 SHCS  
+2 x M3x16 SHCS ?? Maybe 20s, need to test 
 2 x M3x50 SHCS `40mm for stubby`  
 
 ## Back
@@ -63,4 +63,4 @@ RTV High Temp Silicon
 
 ### DB/BB Docking
 2 x 5x2 Magnets `Optional but recommended`  
-2 x M3x14 BHCS  
+2 x M3x16 BHCS  
