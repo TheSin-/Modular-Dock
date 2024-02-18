@@ -22,7 +22,7 @@
 ## Base
 4 x M3 Heatset  
 2 x M3x18 SHCS  
-2 x M3x50 SHCS  
+2 x M3x50 SHCS `40mm for stubby`  
 
 ## Back
 1 x M3 Heatset `Optional for PTFE wiper`  
