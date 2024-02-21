@@ -6,7 +6,7 @@
 - [x] Make short DB version (can only user short DBs for all tools if used)
 - [x] Make BOM
 - [x] Upload CAD
-- [ ] Test Knomi Container
+- [x] Test Knomi Container
 - [ ] Test Knomi2 Container
 - [ ] Add a Halo Container
 - [x] Add blank Container to build off of
