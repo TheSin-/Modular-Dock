@@ -1,9 +1,9 @@
 # BOM
 
 ## Frame 
-**NOTE: 1515 bolts will all be 2-5mm shorter**
 
-2 x M3 Heatset  
+6 x M3 Heatset  
+4 x M3x16 SHCS
 4 x M5x12 BHCS  
 4 x M5 T-Nut `Recommended` or Hammerhead Nut `Only 2 if using Links`  
 
