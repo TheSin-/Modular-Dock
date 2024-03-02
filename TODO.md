@@ -14,6 +14,7 @@
 - [ ] Add XOL
 - [x] Add Blackbird
 - [ ] Add Config per Types
+- [ ] Make install instructions
 - [x] Add frame links, left L/S, right L/S, middle LL/LS/SL/SS (if no crossbar)
 - [x] Convert wiper to be modular
 - [x] Sprung Steel Wiper
@@ -23,6 +24,7 @@
 - [x] Make sure all holes follow [3dp standards](https://github.com/gregsaun/maker_cheatsheet/blob/master/3d_printing/techniques.md)
 - [ ] Potentially add 3 heights, SB, SB + Hat or DB, DB + Hat (But again you can not mix and match)
 - [x] Convert Container to be 1515 compat so it works with 2020 and 1515 frames
-- [ ] Make the top and bottom of the frame into replacable pieces (this is where the 2020 to 1515 will happen)
-- [ ] Remove the 2020 thickness of the frame and only use the 1515 to reduce parts, the frame ends will sort the options
-- [ ] Add 5mm to the DB to DB links, the space will help clear wider extruders and looks better
+- [x] Make the top and bottom of the frame into replacable pieces (this is where the 2020 to 1515 will happen)
+- [x] Remove the 2020 thickness of the frame and only use the 1515 to reduce parts, the frame ends will sort the options
+- [x] Add 5mm to the DB to DB links, the space will help clear wider extruders and looks better
+- [ ] Make 1515 tops and bottoms and links
